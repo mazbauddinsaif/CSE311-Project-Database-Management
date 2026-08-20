@@ -1,0 +1,10 @@
+# Java build output
+app/out/
+*.class
+
+# Editor and OS noise
+.vscode/
+.idea/
+*.iml
+Thumbs.db
+desktop.ini
