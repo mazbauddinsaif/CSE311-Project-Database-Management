@@ -23,14 +23,11 @@ Pathao and RedX, and bKash, Nagad, Rocket and Upay as payment methods.
 | `db/seed.sql` | Sample data, 23,704 rows of Bangladeshi retail data |
 | `db/views.sql` | Six views used by the application and the reports |
 | `db/queries.sql` | Query set organised by lab week |
+| `db/routines.sql` | Trigger and stored procedure (Week 9 material) |
 | `app/src/marketplace/` | Java source for the desktop application |
 | `app/lib/` | JDBC driver and the FlatLaf look and feel |
-| `docs/er-diagram.png` | Entity relationship diagram with cardinality |
-| `docs/schema-diagram.png` | Relational schema diagram |
-| `docs/CSE311-Project-Report.docx` | Project report |
-| `docs/DEMO-GUIDE.md` | Setup, demonstration walkthrough and expected questions |
-| `docs/CODE-GUIDE.md` | Tech stack, file-by-file structure, and the order to read the code in |
-| `docs/screenshots/` | Screens of the running application |
+| `app/marketplace.jar` | Pre-built runnable JAR |
+| `CSE311 Project Report.pdf` | Full project report |
 
 ---
 
